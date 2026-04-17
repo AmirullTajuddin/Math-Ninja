@@ -1,1 +1,1 @@
-# Math-Ninja
+# math-ninja
