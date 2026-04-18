@@ -1,9 +1,0 @@
-body{font-family:sans-serif;text-align:center;background:#fef6ff;}
-.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:10px;}
-button{font-size:18px;padding:10px;margin:5px;}
-.mode-btn.selected{background:#c8f7c5;border:2px solid green;}
-#timer{position:fixed;top:10px;right:10px;background:#fff;padding:8px;border-radius:10px;}
-#questions{display:grid;grid-template-columns:repeat(2,1fr);margin-top:60px;}
-.question{margin:10px;padding:10px;font-size:22px;}
-input{font-size:20px;width:70px;text-align:center;}
-.wrong{background:#ffd6d6;border-radius:10px;}
